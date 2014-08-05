@@ -6,9 +6,9 @@ This repository describes a [Homebrew](https://github.com/Homebrew/homebrew) tap
 
 First, make sure you have installed Homebrew.
 
-Then run `brew tap TheTorProject/tor && brew install tor`.
+Then run `brew tap TheTorProject/tor && brew install TheTorProject/tor/tor`.
 
-To upgrade Tor later, you can run `brew update && brew upgrade tor`.
+To upgrade Tor later, you can run `brew update && brew upgrade TheTorProject/tor/tor`.
 
 ## License
 
